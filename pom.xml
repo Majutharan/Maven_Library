@@ -14,7 +14,7 @@
 <!--	</parent>-->
 	<groupId>com.codetech</groupId>
 	<artifactId>multi-module-library</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>multi-module-library</name>
 	<description>This project created to reduce the line of code and improve the code readability.</description>
 
@@ -79,7 +79,7 @@
 		<connection>scm:git:git://github.com/dexecutor/dependent-tasks-executor.git</connection>
 		<developerConnection>scm:git:git@github.com:dexecutor/dexecutor.git</developerConnection>
 		<url>https://github.com/dexecutor/dependent-tasks-executor</url>
-		<tag>algorithms</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<build>
 		<plugins>
